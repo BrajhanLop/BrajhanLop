@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Brajhan</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
-- 🔭 I’m currently working on **Ecommerce**
+- 🔭 I’m currently working as an **Educator**
 
 - 👯 I’m looking to collaborate on **ReactComunity**
 
