@@ -1,4 +1,4 @@
-<img src="[https://media-exp1.licdn.com/dms/image/C4E16AQHFXw7k5jjFCQ/profile-displaybackgroundimage-shrink_350_1400/0/1660801901249?e=1672272000&v=beta&t=5uAMoTWc75NCy1fSiBkucuR7W8OR1gdZauLYhJ-urYE](https://media.licdn.com/dms/image/C4E16AQHFXw7k5jjFCQ/profile-displaybackgroundimage-shrink_350_1400/0/1660801901249?e=1683158400&v=beta&t=WZf5jHUDUnUrHmkk0cEZfzqk6RwmR49fob4j8AO2xMI)"/>
+<img src="https://media.licdn.com/dms/image/C4E16AQHFXw7k5jjFCQ/profile-displaybackgroundimage-shrink_350_1400/0/1660801901249?e=1683158400&v=beta&t=WZf5jHUDUnUrHmkk0cEZfzqk6RwmR49fob4j8AO2xMI"/>
 <h1 align="center">Hi 👋, I'm Brajhan</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
