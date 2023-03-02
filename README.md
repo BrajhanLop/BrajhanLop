@@ -20,4 +20,4 @@
 ---
 ### My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JamesAngelxx3&theme=dark&locale=es&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrajhanLop&theme=dark&locale=es&mode=weekly)](https://git.io/streak-stats)
