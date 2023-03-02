@@ -20,4 +20,5 @@
 ---
 ### My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrajhanLop&theme=dark&locale=es&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrajhanLop&theme=dark)](https://git.io/streak-stats)
+![BrajhanLop GitHub stats](https://github-readme-stats.vercel.app/api?username=BrajhanLop&show_icons=true&theme=radical)
