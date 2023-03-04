@@ -60,4 +60,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=BrajhanLop&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### 😂 Random Dev Meme
-<img src="https://www.boredpanda.es/blog/wp-content/uploads/2021/12/02-3-61ae1f5b5ed00__700-61af736ed3733__700.jpg" width="512px"/>
+<img src="https://www.boredpanda.es/blog/wp-content/uploads/2021/12/02-3-61ae1f5b5ed00__700-61af736ed3733__700.jpg" width="511px"/>
